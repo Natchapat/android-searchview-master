@@ -1,0 +1,2 @@
+C:\Users\Spring-Sama\Desktop\android-searchview-master\app\build\intermediates\classes\debug
+C:\Users\Spring-Sama\Desktop\android-searchview-master\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-0ebf6f56f36717c596916f1748d53141a4bc8ffe.jar
